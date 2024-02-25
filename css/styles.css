@@ -225,7 +225,9 @@ img {
 }
 /*MOBILE BG RETINA*/
 @media screen and (min-resolution: 192dpi) {
-  background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url('../images/hero-images/hero_bg_mob@2x.jpg');
+  .hero-section {
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url('../images/hero-images/hero_bg_mob@2x.jpg');
+  }
 }
 
 
