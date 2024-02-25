@@ -176,6 +176,7 @@ img {
   background-position: center;
   background-size: cover;
   margin-bottom: 48px;
+  margin: 0 auto;
 }
 
 .hero-section .container {
@@ -185,6 +186,7 @@ img {
   align-items: center;
   flex-direction: column;
   gap: 48px;
+
 }
 
 .hero-title {
